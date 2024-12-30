@@ -1,0 +1,14 @@
+C:\Users\NanoChip\source\repos\Weak 1.1 MainTask\bin\Debug\net8.0\Weak 1.1 MainTask.exe
+C:\Users\NanoChip\source\repos\Weak 1.1 MainTask\bin\Debug\net8.0\Weak 1.1 MainTask.deps.json
+C:\Users\NanoChip\source\repos\Weak 1.1 MainTask\bin\Debug\net8.0\Weak 1.1 MainTask.runtimeconfig.json
+C:\Users\NanoChip\source\repos\Weak 1.1 MainTask\bin\Debug\net8.0\Weak 1.1 MainTask.dll
+C:\Users\NanoChip\source\repos\Weak 1.1 MainTask\bin\Debug\net8.0\Weak 1.1 MainTask.pdb
+C:\Users\NanoChip\source\repos\Weak 1.1 MainTask\obj\Debug\net8.0\Weak 1.1 MainTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NanoChip\source\repos\Weak 1.1 MainTask\obj\Debug\net8.0\Weak 1.1 MainTask.AssemblyInfoInputs.cache
+C:\Users\NanoChip\source\repos\Weak 1.1 MainTask\obj\Debug\net8.0\Weak 1.1 MainTask.AssemblyInfo.cs
+C:\Users\NanoChip\source\repos\Weak 1.1 MainTask\obj\Debug\net8.0\Weak 1.1 MainTask.csproj.CoreCompileInputs.cache
+C:\Users\NanoChip\source\repos\Weak 1.1 MainTask\obj\Debug\net8.0\Weak 1.1 MainTask.dll
+C:\Users\NanoChip\source\repos\Weak 1.1 MainTask\obj\Debug\net8.0\refint\Weak 1.1 MainTask.dll
+C:\Users\NanoChip\source\repos\Weak 1.1 MainTask\obj\Debug\net8.0\Weak 1.1 MainTask.pdb
+C:\Users\NanoChip\source\repos\Weak 1.1 MainTask\obj\Debug\net8.0\Weak 1.1 MainTask.genruntimeconfig.cache
+C:\Users\NanoChip\source\repos\Weak 1.1 MainTask\obj\Debug\net8.0\ref\Weak 1.1 MainTask.dll
